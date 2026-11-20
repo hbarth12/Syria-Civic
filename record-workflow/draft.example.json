@@ -1,0 +1,21 @@
+{
+  "slug": "replace-with-meeting-slug",
+  "status": "draft",
+  "date": "YYYY-MM-DD",
+  "sessionNumber": "Verified session description",
+  "type": "plenary",
+  "transcriptFormat": "edited",
+  "sourceVideoUrl": "https://www.youtube.com/watch?v=SOURCE_ID",
+  "en": {
+    "title": "Verified meeting title",
+    "typeLabel": "Hearing",
+    "summary": "Source-grounded summary",
+    "accuracyNote": "Machine-assisted draft awaiting review. Describe coverage, uncertainty and speaker-label methodology here.",
+    "sourceCredit": "Verified broadcaster and meeting date",
+    "transcript": "Timestamped English translation"
+  },
+  "ar": {
+    "title": "عنوان الجلسة",
+    "transcript": "النص العربي مع الطوابع الزمنية"
+  }
+}

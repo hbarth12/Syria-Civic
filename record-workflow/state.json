@@ -1,0 +1,40 @@
+{
+  "sources": [
+    {
+      "videoId": "ivR_t9PEJ6Q",
+      "url": "https://www.youtube.com/watch?v=ivR_t9PEJ6Q",
+      "meetingDate": "2026-09-14",
+      "title": "People's Assembly Hearing with the Minister of Education",
+      "status": "needs_source_access",
+      "note": "English transcript and PDF preserved from supplied site. Arabic source transcript not included; retrieve from the recording before translating or claiming bilingual completeness.",
+      "channelUrl": "https://www.youtube.com/@AlsouriyaTv",
+      "blocker": "YouTube browser shows Sign in to confirm you’re not a bot; source video/captions unavailable in this session. No dedicated transcription tool is connected. Arabic coverage remains zero; existing English preserved.",
+      "lastAttempt": "2026-11-19"
+    }
+  ],
+  "lastChecked": "2026-11-20T10:13:57Z",
+  "discoveryNotes": {
+    "date": "2026-11-20",
+    "newFullRecordingsVerified": 0,
+    "candidates": [
+      {
+        "url": "https://www.youtube.com/watch?v=CSAvpH-WNTo",
+        "status": "possible_alternate_same_education_hearing_unverified_duration"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=RjtMx7GqAAk",
+        "status": "announcement_not_verified_full_hearing"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=dqn6d4zVvfo",
+        "status": "education_hearing_candidate_channel_duration_and_coverage_unverified"
+      },
+      {
+        "url": "https://www.youtube.com/watch?v=ZW5TN-JXv6I",
+        "status": "education_hearing_candidate_channel_duration_and_coverage_unverified"
+      }
+    ],
+    "note": "Checked SANA parliamentary coverage and broadcaster searches. No new full recording verified. Original and alternate education YouTube pages returned cache misses; no captions recovered or transcription capability available. Approved transcripts unchanged."
+  },
+  "lastNotifiedBlocker": "youtube_source_access_2026-11-19"
+}

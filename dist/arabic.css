@@ -1,0 +1,17 @@
+html[lang=ar] body{font-family:"Noto Sans Arabic",Tahoma,Arial,sans-serif}
+html[lang=ar]{--sans:"Noto Sans Arabic",Tahoma,Arial,sans-serif;--serif:"Noto Sans Arabic",Tahoma,Arial,sans-serif}
+html[lang=ar] h1,html[lang=ar] h2,html[lang=ar] h3,html[lang=ar] h4,html[lang=ar] p,html[lang=ar] input,html[lang=ar] button,html[lang=ar] label,html[lang=ar] .board-list{font-family:var(--sans);letter-spacing:0}
+html[lang=ar] h1,html[lang=ar] h2,html[lang=ar] h3{line-height:1.45}
+html[lang=ar] .masthead-title{left:auto;right:max(24px,calc((100vw - 1360px)/2));font-size:calc(var(--masthead-font,17.5vw)*.78);letter-spacing:-.045em;line-height:1.2}
+html[lang=ar] .masthead-title a{gap:.18em}
+html[lang=ar] .expanding-masthead #primary-nav{right:auto;left:max(80px,calc((100vw - 1360px)/2 + 56px))}
+html[lang=ar] .ideas-dropdown{left:auto;right:-16px}
+html[lang=ar] .footer-wordmark{font-family:var(--sans);font-size:42px;letter-spacing:0}
+html[lang=ar] .footer-contact,html[lang=ar] .site-footer .footer-contact p,html[lang=ar] .site-footer .footer-contact a{font-family:var(--sans)}
+html[lang=ar] .charter-text p{font-family:var(--sans);font-size:20px;line-height:1.9;letter-spacing:0}
+html[lang=ar] .programme-heading h3{font-family:var(--sans);font-size:32px;line-height:1.5}
+html[lang=ar] .article-heading h1{font-family:var(--sans);font-size:clamp(32px,4vw,54px);line-height:1.5}
+html[lang=ar] .eyebrow{letter-spacing:0}
+html[lang=ar] .home-events-brand{border-left:0;border-right:1px solid #c9c5bd;padding-left:0;padding-right:24px}
+html[lang=ar] a[href^="mailto:"]{unicode-bidi:plaintext}
+@media(max-width:800px){html[lang=ar] .masthead-title{right:16px;left:auto}html[lang=ar] .expanding-masthead .menu-toggle{right:auto;left:16px}html[lang=ar] .expanding-masthead #primary-nav{left:0;right:0}}

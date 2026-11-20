@@ -1,0 +1,10 @@
+.donate-page{max-width:780px;width:calc(100% - 48px);margin:0 auto;padding:64px 0 80px;color:#091b40}
+.donate-label{font-size:14px!important;letter-spacing:.12em;text-transform:uppercase;color:#2878c8;font-weight:600;margin:0 0 24px!important}
+.donate-page h1{font-family:var(--serif);font-size:clamp(40px,5vw,64px);line-height:1.08;font-weight:400;letter-spacing:-.035em;margin:0 0 28px}
+.donate-page p{font-size:20px;line-height:1.65;max-width:650px;margin:0 0 24px}
+.donate-page .donate-intro{font-size:25px;line-height:1.45}
+.donate-contact{display:inline-block;font-family:var(--sans);font-size:clamp(22px,3vw,30px);color:#091b40;text-decoration:none;border-bottom:1px solid #091b40;padding-bottom:6px;margin:8px 0 18px;overflow-wrap:anywhere}
+.donate-contact:hover{color:#2878c8;border-color:#2878c8}
+.donate-contact:focus-visible{outline:3px solid #2878c8;outline-offset:6px}
+.donate-page .donate-note{font-size:16px;color:#526172}
+@media(max-width:550px){.donate-page{padding:40px 0 52px}.donate-page p{font-size:18px}.donate-page .donate-intro{font-size:22px}}
